@@ -25,4 +25,3 @@ void loop() {
    irrecv.resume();  // 继续等待接收下一组信号
    }
 }
-
